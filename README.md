@@ -4,6 +4,14 @@
 
 Turn any spare Android phone into a secure baby monitor camera. Stream video to your iOS devices over your local network - no cloud, no subscriptions, no data collection.
 
+<p align="center">
+  <img src="docs/screenshot.png" width="280" alt="Vigil app screenshot" />
+</p>
+
+<p align="center">
+  <a href="docs/crying-detection-demo.mp4">Watch the cry detection demo</a>
+</p>
+
 ## Features
 
 - **RTSP Streaming** - Industry-standard protocol viewable in VLC or any RTSP client
@@ -77,7 +85,7 @@ The Vigil iOS companion app will auto-discover and connect to your camera.
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/vigil.git
+git clone https://github.com/vipinkashyap/Vigil.git
 cd vigil
 
 # Build debug APK
